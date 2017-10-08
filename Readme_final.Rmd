@@ -1,6 +1,8 @@
 ---
 title: "Data Analysis Dataset1"
-output: github_document
+output: 
+  pdf_document: 
+    latex_engine: xelatex
 ---
 
 ```{r setup, include=FALSE}
